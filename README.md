@@ -1,4 +1,6 @@
 ## Olá, eu sou o Pedro Henryque 🐺
+## Estou em busca de me tornar um programador Full Stack.
+## Atualmente sou estudando de Gestão da tecnologia da informação.
 
 ## SOCIAL
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henryque_pd/)
@@ -13,7 +15,7 @@
 ![Henryqze GitHub stats](https://github-readme-stats.vercel.app/api?username=Henryqze&show_icons=true&theme=tokyonight)
 ![top lag](https://github-readme-stats.vercel.app/api/top-langs/?username=Henryqze&layout=compact)
 
-## Tecnologias usadas por mim:
+## SKILLS:
 <div style="display: inline_block"><br/>
     <img alig="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     </div></br>
