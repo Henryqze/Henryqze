@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Pedro+Henryque+%F0%9F%90%BA;Almejo+ser+um+programador+FULL+STACK;Estudo+Gest%C3%A3o+de+T.I)](https://git.io/typing-svg)
-
+##Futuro programador Full-Stack
 ## SOCIAL
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henryque_pd/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
